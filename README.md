@@ -20,4 +20,4 @@ Este prompt foi projetado com diretrizes rigorosas para garantir uma atuação s
 Copie o conteúdo de [`system-prompt.md`](./system-prompt.md) e cole no campo de instruções das **Gems do Gemini** ou no **Custom GPTs da OpenAI**.
 
 ## 📸 Exemplo de Funcionamento
-*(Adicione aqui a imagem da sua Gem respondendo)*
+![Exemplo de Funcionamento](./Assets/elizumtecnologia-png)
